@@ -1,6 +1,6 @@
 options( digits = 16 )
 library( jsonlite )
-
+library( VGAM )
 
 sigma = 1
 probs = c( 0, 0.25, 0.5, 0.75, 1 )

@@ -1,8 +1,8 @@
 options( digits = 16 )
 library( jsonlite )
+library( VGAM )
 
-
-sigma = 1
+sigma = 4
 probs = seq( 0, 1, 0.01 )
 y = qrayleigh( probs, sigma )
 
