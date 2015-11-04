@@ -1,6 +1,6 @@
 Quantile Function
 ===
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
 > [Rayleigh](https://en.wikipedia.org/wiki/Rayleigh_distribution) distribution [quantile function](https://en.wikipedia.org/wiki/Quantile_function).
 
@@ -387,8 +387,8 @@ Copyright &copy; 2015. The [Compute.io](https://github.com/compute-io) Authors.
 [travis-image]: http://img.shields.io/travis/distributions-io/rayleigh-quantile/master.svg
 [travis-url]: https://travis-ci.org/distributions-io/rayleigh-quantile
 
-[coveralls-image]: https://img.shields.io/coveralls/distributions-io/rayleigh-quantile/master.svg
-[coveralls-url]: https://coveralls.io/r/distributions-io/rayleigh-quantile?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/distributions-io/rayleigh-quantile/master.svg
+[codecov-url]: https://codecov.io/github/distributions-io/rayleigh-quantile?branch=master
 
 [dependencies-image]: http://img.shields.io/david/distributions-io/rayleigh-quantile.svg
 [dependencies-url]: https://david-dm.org/distributions-io/rayleigh-quantile
