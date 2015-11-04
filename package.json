@@ -20,7 +20,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/compute-io/rayleigh-quantile.git"
+    "url": "git://github.com/distributions-io/rayleigh-quantile.git"
   },
   "keywords": [
     "distributions.io",
@@ -32,7 +32,7 @@
     "inverse"
   ],
   "bugs": {
-    "url": "https://github.com/compute-io/rayleigh-quantile/issues"
+    "url": "https://github.com/distributions-io/rayleigh-quantile/issues"
   },
   "dependencies": {
     "compute-array-constructors": "^1.0.0",
