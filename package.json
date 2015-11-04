@@ -54,7 +54,7 @@
   "devDependencies": {
     "chai": "3.x.x",
     "mocha": "2.x.x",
-    "coveralls": "^2.11.1",
+    "codecov.io": "^0.1.5",
     "istanbul": "^0.3.0",
     "jshint": "2.x.x",
     "jshint-stylish": "2.x.x",
