@@ -7,7 +7,7 @@ Quantile Function
 The [quantile function](https://en.wikipedia.org/wiki/Quantile_function) for a [Rayleigh](https://en.wikipedia.org/wiki/Rayleigh_distribution) random variable is
 
 <div class="equation" align="center" data-raw-text="Q(p;\sigma)=\sigma \sqrt{-\ln[(1 - p)^2]}" data-equation="eq:quantile_function">
-	<img src="https://github.com/distributions-io/rayleigh-quantile/blob/a63a5181636574d1316c449653406791298763e3/docs/img/eqn.svg" alt="Quantile function for a Rayleigh distribution.">
+	<img src="https://cdn.rawgit.com/distributions-io/rayleigh-quantile/a63a5181636574d1316c449653406791298763e3/docs/img/eqn.svg" alt="Quantile function for a Rayleigh distribution.">
 	<br>
 </div>
 
